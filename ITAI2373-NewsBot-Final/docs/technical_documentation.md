@@ -3,7 +3,7 @@
 Summary of `reports/technical_report.pdf` (ITAI 2373 Final Project, team Purple Berries: Khalida Bestani, Marisabel Morales, Sadea Saeed). The PDF is the authoritative version.
 
 ## 1. Introduction
-The midterm NewsBot 1.0 cleaned BBC articles, built TF-IDF features, analysed POS tags and syntax, scored sentiment with VADER, extracted entities with spaCy and classified 5 categories (best: Logistic Regression, 97.65%). NewsBot 2.0 turns that notebook into a small system with four modules (A–D) and a Python package, deliberately using methods taught in class (TF-IDF, LDA/NMF, TextRank, rules) so every member can explain each part.
+The final project NewsBot 1.0 cleaned BBC articles, built TF-IDF features, analysed POS tags and syntax, scored sentiment with VADER, extracted entities with spaCy and classified 5 categories (best: Logistic Regression, 97.65%). NewsBot 2.0 turns that notebook into a small system with four modules (A–D) and a Python package, deliberately using methods taught in class (TF-IDF, LDA/NMF, TextRank, rules) so every member can explain each part.
 
 ## 2. Architecture
 1. `data_processing` loads the Kaggle CSV, checks quality (missing, empty, duplicate articles) and cleans text.
