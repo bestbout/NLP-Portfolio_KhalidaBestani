@@ -3,11 +3,8 @@
 Team: Purple Berries (Khalida Bestani, Marisabel Morales, Sadea Saeed) · ITAI 2373 Final Project
 
 ## Team division of work (from the technical documentation and reflective journal)
-| Member | Main work |
-|---|---|
-| **Khalida Bestani** | Module A – Advanced Content Analysis: TF-IDF + Logistic Regression classification, model tuning and confidence scores; LDA/NMF topic modeling; VADER sentiment; named-entity relationships. Shared Module D: intent processing, query handling, system integration. |
-| Marisabel Morales | Module C – Multilingual Intelligence; shared Module D; Streamlit web app. |
-| Sadea Saeed | Module B – summarization, search, query expansion, content enhancement. |
+| Member |
+| **Khalida Bestani** 
 
 ## My contribution in detail
 ### Individual Contribution – Khalida Bestani
