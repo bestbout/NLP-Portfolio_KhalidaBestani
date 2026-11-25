@@ -60,7 +60,7 @@ ITAI2373-NewsBot-Final/
 │   ├── conversation/      query_processor.py, intent_classifier.py, response_generator.py
 │   ├── utils/             visualization.py, evaluation.py, export.py
 │   └── newsbot.py         NewsBot2 – connects everything
-├── notebooks/         01_Data_Exploration … 07_System_Integration + full FP_NewsBot2_ksm_GroupName_ITAI2373.ipynb
+├── notebooks/         01_Data_Exploration … 07_System_Integration + full FP_NewsBot2_Purple Berries_ITAI2373.ipynb
 ├── tests/             test_preprocessing, test_classification, test_topic_modeling, test_integration
 ├── data/              raw/ (BBC News Train.csv), processed/, models/, results/
 ├── docs/              technical_documentation, user_guide, api_reference, deployment_guide,
@@ -68,7 +68,7 @@ ITAI2373-NewsBot-Final/
 └── reports/           executive_summary.pdf, technical_report.pdf, presentation_slides.pdf,
                        FP_* originals, FP_ReflectiveJournal_PurpleBerries_ITAI2373.pdf
 ```
-The numbered notebooks are sections split out of the full notebook (outputs preserved); the full notebook `FP_NewsBot2_ksm_GroupName_ITAI2373.ipynb` is the one that runs end to end.
+The numbered notebooks are sections split out of the full notebook (outputs preserved); the full notebook `FP_NewsBot2_PurpleBerries_ITAI2373.ipynb` is the one that runs end to end.
 
 ## ⚙️ Setup
 ```bash
@@ -90,7 +90,7 @@ print(bot.ask("show positive tech articles and summarize article 3"))
 ```
 
 ## ☁️ Running in Google Colab
-1. Open `notebooks/FP_NewsBot2_ksm_GroupName_ITAI2373.ipynb` in Colab (File → Open notebook → GitHub → paste this repo URL).
+1. Open `notebooks/FP_NewsBot2_PupleBerries_ITAI2373.ipynb` in Colab (File → Open notebook → GitHub → paste this repo URL).
 2. Run the first cell and upload `kaggle.json` when prompted (the notebook downloads the `learn-ai-bbc` dataset). Without Kaggle: upload `data/raw/BBC News Train.csv` to the Colab file panel and skip the Kaggle cells.
 3. **Runtime → Run all.** Everything trains in about 1–2 minutes on CPU. Translation cells need internet.
 4. The interactive chat loop at the end is commented out so "Run all" does not block — uncomment to try it.
