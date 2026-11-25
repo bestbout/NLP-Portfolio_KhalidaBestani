@@ -6,6 +6,10 @@
 
 NewsBot 2.0 is an NLP system that analyses BBC news articles: it classifies them into five categories with confidence scores, discovers topics, measures sentiment, maps entity relationships, writes extractive summaries, searches articles semantically, works across languages, and answers questions through a conversational interface. It extends our [midterm NewsBot](../ITAI2373-NewsBot-Midterm/).
 
+## Project Video Link
+[Watch the NewsBot Midterm Video](https://youtu.be/tJPvp37ZG6E)(https://youtu.be/watch?v=ssH_tT2zNqY&t=4s) 
+
+
 🌐 **Live web app (bonus):** https://newsbot2-webapp.streamlit.app/ (source: [Mari-XR/NewsBot2-WebApp](https://github.com/Mari-XR/NewsBot2-WebApp))
 
 ---
