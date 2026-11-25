@@ -78,8 +78,5 @@ No ROUGE: the dataset has no reference summaries.
 ## 6. Limitations and ethics
 No dates (simulated evolution); old British English-only data (2004–05); VADER misreads finance news ("shares fell after the bank cut its profit forecast" → positive); translation needs internet; rule-based chatbot; extractive summaries can be choppy. Automatic labels/tone should not be used alone to judge journalists or sources.
 
-## 7. Future work
-Transformer models (DistilBERT, BART), dated multilingual data, improved Streamlit app.
-
 ## 8. References
 Greene & Cunningham (2006) – BBC dataset; Blei, Ng & Jordan (2003) – LDA; Lee & Seung (1999) – NMF; Mihalcea & Tarau (2004) – TextRank; Hutto & Gilbert (2014) – VADER; scikit-learn, NLTK, spaCy, langdetect, deep-translator docs.
