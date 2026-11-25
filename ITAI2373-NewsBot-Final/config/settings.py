@@ -1,7 +1,7 @@
 """Central configuration for NewsBot 2.0.
 
 Values are the ones used in the project notebook
-(notebooks/FP_NewsBot2_ksm_GroupName_ITAI2373.ipynb) and listed in the
+(notebooks/FP_NewsBot2_ITAI2373.ipynb) and listed in the
 technical documentation, section 7 "Configuration Manual".
 """
 from pathlib import Path
