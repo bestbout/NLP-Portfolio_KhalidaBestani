@@ -1,7 +1,7 @@
 # User Guide – NewsBot 2.0
 
 ## Option 1: Google Colab (recommended)
-1. Open `notebooks/FP_NewsBot2_ksm_GroupName_ITAI2373.ipynb` in Colab (File → Open notebook → GitHub, or upload).
+1. Open `notebooks/FP_NewsBot2_ITAI2373.ipynb` in Colab (File → Open notebook → GitHub, or upload).
 2. Run the first cell and upload your `kaggle.json` when asked (the notebook downloads `learn-ai-bbc`). Alternatively upload `data/raw/BBC News Train.csv` and skip the Kaggle cells.
 3. Runtime → Run all. Training takes about 1–2 minutes on a Colab CPU.
 4. At the end, uncomment the "Try it yourself!" cell to chat interactively.
